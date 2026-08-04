@@ -1,0 +1,9 @@
+streamlit
+pycryptodome
+pandas
+numpy
+matplotlib
+plotly
+psutil
+reportlab
+Pillow
